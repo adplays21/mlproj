@@ -233,7 +233,7 @@ coeffecients
 #Time on Website	0.190405
 #Length of Membership	61.279097
 
-
+#CONCLUSION FROM THE ANALYSIS AND MODELLING:
 # ** How can you interpret these coefficients? **
 
 # - Holding all other features fixed, a 1 unit increase in **Avg. Session Length** is associated with an **increase of 25.98 total dollars spent**.
